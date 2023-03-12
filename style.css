@@ -1,0 +1,31 @@
+.navbar li{
+    list-style-type: none;
+    display : inline;
+    margin : 25px;
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+.navbar :hover{
+    background-color: orange;
+}
+.navbar{
+    background-color: burlywood;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.d1{
+    background-color: crimson;
+    border-style: solid;
+    border-width: medium;
+    box-shadow: 0 0 25px 0 black;  
+    border-radius: 30px;
+}
+
+.d1 h1{
+    text-align: center;
+    font-family : 'Times New Roman';
+}
